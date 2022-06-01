@@ -1,14 +1,14 @@
 [
   {
     "full_name": "vitejs/vite",
-    "stargazers_count": 42475,
-    "open_issues_count": 577,
+    "stargazers_count": 42480,
+    "open_issues_count": 579,
     "forks_count": 3354
   },
   {
     "full_name": "electron-userland/electron-builder",
     "stargazers_count": 12064,
-    "open_issues_count": 203,
+    "open_issues_count": 202,
     "forks_count": 1533
   },
   {
@@ -51,7 +51,7 @@
     "full_name": "dotnet/extensions",
     "stargazers_count": 2204,
     "open_issues_count": 0,
-    "forks_count": 686
+    "forks_count": 685
   },
   {
     "full_name": "dotnet/command-line-api",
@@ -79,7 +79,7 @@
   },
   {
     "full_name": "dotnet/try-samples",
-    "stargazers_count": 709,
+    "stargazers_count": 710,
     "open_issues_count": 33,
     "forks_count": 400
   },
@@ -121,15 +121,15 @@
   },
   {
     "full_name": "gitkraken/vscode-gitlens",
-    "stargazers_count": 7031,
-    "open_issues_count": 404,
+    "stargazers_count": 7033,
+    "open_issues_count": 406,
     "forks_count": 657
   },
   {
     "full_name": "storybookjs/storybook",
-    "stargazers_count": 71273,
-    "open_issues_count": 1915,
-    "forks_count": 7375
+    "stargazers_count": 71275,
+    "open_issues_count": 1913,
+    "forks_count": 7376
   },
   {
     "full_name": "lostintangent/gistpad",
@@ -139,9 +139,9 @@
   },
   {
     "full_name": "microsoft/vscode-docs",
-    "stargazers_count": 4503,
+    "stargazers_count": 4505,
     "open_issues_count": 52,
-    "forks_count": 3742
+    "forks_count": 3744
   },
   {
     "full_name": "microsoft/vscode-pull-request-github",
@@ -152,8 +152,8 @@
   {
     "full_name": "microsoft/vscode-extension-samples",
     "stargazers_count": 5552,
-    "open_issues_count": 59,
-    "forks_count": 2460
+    "open_issues_count": 60,
+    "forks_count": 2462
   },
   {
     "full_name": "microsoft/vs-intellicode",
@@ -163,7 +163,7 @@
   },
   {
     "full_name": "typicode/husky",
-    "stargazers_count": 26640,
+    "stargazers_count": 26642,
     "open_issues_count": 12,
     "forks_count": 941
   },
@@ -175,7 +175,7 @@
   },
   {
     "full_name": "actions/runner",
-    "stargazers_count": 2865,
+    "stargazers_count": 2866,
     "open_issues_count": 286,
     "forks_count": 614
   }
