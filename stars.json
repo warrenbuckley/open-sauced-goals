@@ -7,15 +7,15 @@
   },
   {
     "full_name": "vitejs/vite",
-    "stargazers_count": 42814,
-    "open_issues_count": 573,
-    "forks_count": 3395
+    "stargazers_count": 42852,
+    "open_issues_count": 574,
+    "forks_count": 3404
   },
   {
     "full_name": "electron-userland/electron-builder",
-    "stargazers_count": 12103,
-    "open_issues_count": 211,
-    "forks_count": 1540
+    "stargazers_count": 12108,
+    "open_issues_count": 214,
+    "forks_count": 1541
   },
   {
     "full_name": "open-wc/api-viewer-element",
@@ -43,7 +43,7 @@
   },
   {
     "full_name": "cloudflare/production-saas",
-    "stargazers_count": 1001,
+    "stargazers_count": 1002,
     "open_issues_count": 15,
     "forks_count": 34
   },
@@ -61,8 +61,8 @@
   },
   {
     "full_name": "dotnet/command-line-api",
-    "stargazers_count": 2740,
-    "open_issues_count": 348,
+    "stargazers_count": 2741,
+    "open_issues_count": 349,
     "forks_count": 310
   },
   {
@@ -79,19 +79,19 @@
   },
   {
     "full_name": "dotnet/interactive",
-    "stargazers_count": 1845,
-    "open_issues_count": 362,
+    "stargazers_count": 1847,
+    "open_issues_count": 363,
     "forks_count": 256
   },
   {
     "full_name": "dotnet/try-samples",
-    "stargazers_count": 717,
+    "stargazers_count": 718,
     "open_issues_count": 33,
     "forks_count": 406
   },
   {
     "full_name": "dotnet/try",
-    "stargazers_count": 2391,
+    "stargazers_count": 2392,
     "open_issues_count": 171,
     "forks_count": 469
   },
@@ -115,7 +115,7 @@
   },
   {
     "full_name": "AdobeXD/design-system-package-dsp",
-    "stargazers_count": 237,
+    "stargazers_count": 238,
     "open_issues_count": 20,
     "forks_count": 28
   },
@@ -128,14 +128,14 @@
   {
     "full_name": "gitkraken/vscode-gitlens",
     "stargazers_count": 7059,
-    "open_issues_count": 401,
-    "forks_count": 664
+    "open_issues_count": 402,
+    "forks_count": 662
   },
   {
     "full_name": "storybookjs/storybook",
-    "stargazers_count": 71516,
-    "open_issues_count": 1923,
-    "forks_count": 7402
+    "stargazers_count": 71555,
+    "open_issues_count": 1935,
+    "forks_count": 7406
   },
   {
     "full_name": "lostintangent/gistpad",
@@ -145,19 +145,19 @@
   },
   {
     "full_name": "microsoft/vscode-docs",
-    "stargazers_count": 4523,
-    "open_issues_count": 58,
+    "stargazers_count": 4529,
+    "open_issues_count": 57,
     "forks_count": 3753
   },
   {
     "full_name": "microsoft/vscode-pull-request-github",
-    "stargazers_count": 1860,
-    "open_issues_count": 349,
+    "stargazers_count": 1863,
+    "open_issues_count": 348,
     "forks_count": 421
   },
   {
     "full_name": "microsoft/vscode-extension-samples",
-    "stargazers_count": 5585,
+    "stargazers_count": 5590,
     "open_issues_count": 61,
     "forks_count": 2472
   },
@@ -169,8 +169,8 @@
   },
   {
     "full_name": "typicode/husky",
-    "stargazers_count": 26726,
-    "open_issues_count": 13,
+    "stargazers_count": 26736,
+    "open_issues_count": 12,
     "forks_count": 947
   },
   {
