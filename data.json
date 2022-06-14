@@ -1,9 +1,9 @@
 [
   {
     "full_name": "vitejs/vite",
-    "stargazers_count": 42852,
-    "open_issues_count": 574,
-    "forks_count": 3403
+    "stargazers_count": 42944,
+    "open_issues_count": 569,
+    "forks_count": 3417
   },
   {
     "full_name": "open-wc/api-viewer-element",
@@ -13,14 +13,14 @@
   },
   {
     "full_name": "umbraco/Umbraco-CMS",
-    "stargazers_count": 3602,
-    "open_issues_count": 507,
-    "forks_count": 2375
+    "stargazers_count": 3605,
+    "open_issues_count": 513,
+    "forks_count": 2373
   },
   {
     "full_name": "open-sauced/open-sauced",
-    "stargazers_count": 678,
-    "open_issues_count": 17,
-    "forks_count": 284
+    "stargazers_count": 694,
+    "open_issues_count": 16,
+    "forks_count": 288
   }
 ]
