@@ -7,15 +7,15 @@
   },
   {
     "full_name": "vitejs/vite",
-    "stargazers_count": 44060,
-    "open_issues_count": 526,
-    "forks_count": 3537
+    "stargazers_count": 44197,
+    "open_issues_count": 519,
+    "forks_count": 3546
   },
   {
     "full_name": "electron-userland/electron-builder",
-    "stargazers_count": 12149,
-    "open_issues_count": 226,
-    "forks_count": 1553
+    "stargazers_count": 12159,
+    "open_issues_count": 228,
+    "forks_count": 1555
   },
   {
     "full_name": "open-wc/api-viewer-element",
@@ -31,7 +31,7 @@
   },
   {
     "full_name": "web-padawan/awesome-lit",
-    "stargazers_count": 931,
+    "stargazers_count": 932,
     "open_issues_count": 1,
     "forks_count": 58
   },
@@ -43,7 +43,7 @@
   },
   {
     "full_name": "cloudflare/production-saas",
-    "stargazers_count": 1013,
+    "stargazers_count": 1014,
     "open_issues_count": 16,
     "forks_count": 35
   },
@@ -55,43 +55,43 @@
   },
   {
     "full_name": "dotnet/extensions",
-    "stargazers_count": 2210,
+    "stargazers_count": 2211,
     "open_issues_count": 1,
     "forks_count": 685
   },
   {
     "full_name": "dotnet/command-line-api",
-    "stargazers_count": 2773,
-    "open_issues_count": 366,
-    "forks_count": 314
+    "stargazers_count": 2777,
+    "open_issues_count": 367,
+    "forks_count": 315
   },
   {
     "full_name": "dotnet/sourcelink",
-    "stargazers_count": 1018,
-    "open_issues_count": 109,
+    "stargazers_count": 1020,
+    "open_issues_count": 107,
     "forks_count": 99
   },
   {
     "full_name": "dotnet/templates",
     "stargazers_count": 102,
-    "open_issues_count": 27,
+    "open_issues_count": 26,
     "forks_count": 45
   },
   {
     "full_name": "dotnet/interactive",
-    "stargazers_count": 1890,
-    "open_issues_count": 388,
-    "forks_count": 259
+    "stargazers_count": 1893,
+    "open_issues_count": 385,
+    "forks_count": 260
   },
   {
     "full_name": "dotnet/try-samples",
     "stargazers_count": 737,
     "open_issues_count": 35,
-    "forks_count": 419
+    "forks_count": 421
   },
   {
     "full_name": "dotnet/try",
-    "stargazers_count": 2419,
+    "stargazers_count": 2420,
     "open_issues_count": 171,
     "forks_count": 473
   },
@@ -115,51 +115,51 @@
   },
   {
     "full_name": "AdobeXD/design-system-package-dsp",
-    "stargazers_count": 243,
+    "stargazers_count": 244,
     "open_issues_count": 20,
     "forks_count": 28
   },
   {
     "full_name": "octokit/graphql.js",
     "stargazers_count": 374,
-    "open_issues_count": 14,
+    "open_issues_count": 12,
     "forks_count": 69
   },
   {
     "full_name": "gitkraken/vscode-gitlens",
-    "stargazers_count": 7112,
-    "open_issues_count": 429,
-    "forks_count": 672
+    "stargazers_count": 7113,
+    "open_issues_count": 427,
+    "forks_count": 676
   },
   {
     "full_name": "storybookjs/storybook",
-    "stargazers_count": 72618,
-    "open_issues_count": 1893,
-    "forks_count": 7497
+    "stargazers_count": 72685,
+    "open_issues_count": 1897,
+    "forks_count": 7502
   },
   {
     "full_name": "lostintangent/gistpad",
     "stargazers_count": 695,
     "open_issues_count": 34,
-    "forks_count": 44
+    "forks_count": 45
   },
   {
     "full_name": "microsoft/vscode-docs",
-    "stargazers_count": 4594,
-    "open_issues_count": 54,
-    "forks_count": 3770
+    "stargazers_count": 4601,
+    "open_issues_count": 52,
+    "forks_count": 3773
   },
   {
     "full_name": "microsoft/vscode-pull-request-github",
-    "stargazers_count": 1872,
-    "open_issues_count": 344,
+    "stargazers_count": 1874,
+    "open_issues_count": 345,
     "forks_count": 426
   },
   {
     "full_name": "microsoft/vscode-extension-samples",
-    "stargazers_count": 5709,
-    "open_issues_count": 62,
-    "forks_count": 2522
+    "stargazers_count": 5720,
+    "open_issues_count": 63,
+    "forks_count": 2526
   },
   {
     "full_name": "microsoft/vs-intellicode",
@@ -169,13 +169,13 @@
   },
   {
     "full_name": "typicode/husky",
-    "stargazers_count": 27012,
+    "stargazers_count": 27033,
     "open_issues_count": 19,
     "forks_count": 956
   },
   {
     "full_name": "cypress-io/github-action",
-    "stargazers_count": 881,
+    "stargazers_count": 884,
     "open_issues_count": 119,
     "forks_count": 203
   }
